@@ -7,7 +7,7 @@ Passionné par la puissance du code et la gestion d'infrastructures, j'aime tran
 ---
 
 ### 🚀 En résumé
-- 🎓 Diplômé d'un **BTS CIEL** (Cybersécurité, Informatique & Réseau, Électronique).
+- 🎓 Diplômé d'un **BTS CIEL** (Cybersécurité, Informatique & Réseaux, Électronique).
 - 🛠️ Actuellement en formation **AIS** en alternance.
 - 🏠 Passionné de **Self-hosting** : Je gère mon propre serveur domestique (Raspberry Pi) sous Docker.
 - 🌍 Retrouvez tous mes projets sur : [projets.marescal.fr](https://projets.marescal.fr)
