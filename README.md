@@ -1,4 +1,4 @@
-# Salut ! Moi c'est Théo Marescal 👋
+# Salut ! Moi c'est Théo 👋
 
 ### 👨‍💻 Étudiant en Informatique & Apprenti Administrateur d'Infrastructures Sécurisées (AIS)
 
